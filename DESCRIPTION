@@ -1,0 +1,13 @@
+Package: PTDBoot
+Title: Predict-Then-Debias Bootstrap
+Version: 0.0.0.9000
+Authors@R: 
+    person("Dan", "Kluger", email="dkluger@mit.edu", role = c("aut", "cre"))
+Description: This package implements the variants of the Predict-Then-Debias bootstrap in a paper titled "Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling" by Kluger et al., (2025).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+Imports: 
+    sandwich,
+    stats
