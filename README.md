@@ -6,7 +6,7 @@ PTDBoot is an R package containing methods conducting leveraging large scale mac
 You can install the development version of PTDBoot directly from GitHub: 
 
 ```r
-# install.packages("devtools") # if you don't have it already
+# install.packages("devtools")
 devtools::install_github("DanKluger/PTDBoot")
 ```
 ## Tutorial
