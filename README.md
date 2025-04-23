@@ -21,6 +21,6 @@ Please report any bugs or direct any questions to dkluger@mit.edu.
 If you use PTDBoot in your work, please cite the following paper:
 
 > Dan M. Kluger, Kerri Lu, Tijana Zrnic, Sherrie Wang, and Stephen Bates (2025). Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling. 2501.18577 [stat.ME]  
-[https://arxiv.org/abs/2501.18577)](https://arxiv.org/abs/2501.18577)
+[https://arxiv.org/abs/2501.18577](https://arxiv.org/abs/2501.18577)
 
 
