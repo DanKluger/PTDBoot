@@ -10,7 +10,7 @@ You can install the development version of PTDBoot directly from GitHub:
 devtools::install_github("DanKluger/PTDBoot")
 ```
 ## Tutorial
-[**Here is a tutorial**](https://dankluger.github.io/PTDBootTutorial/Tutorial.html) that gives examples of how to use the functions in the package. The .Rmd file and processed data that were used in the tutorial can be downloaded from [here](https://github.com/DanKluger/PTDBootTutorial).
+[**Here is a tutorial**](https://dankluger.github.io/PTDBootTutorial/Tutorial.html) that gives examples of how to use the functions in the package. The R Markdown file and processed data that were used in the tutorial can be downloaded from [here](https://github.com/DanKluger/PTDBootTutorial).
 
 ## Reporting Bugs
 
