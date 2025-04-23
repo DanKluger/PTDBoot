@@ -12,7 +12,7 @@ devtools::install_github("DanKluger/PTDBoot")
 ## Tutorial
 A tutorial giving examples of how to use the functions in the package can be found [**here**](https://dankluger.github.io/PTDBootTutorial/Tutorial.html)
 
-## Questions and Reporting Bugs
+## Reporting Bugs
 
 Please report any bugs or direct any questions to dkluger@mit.edu.
 
@@ -20,8 +20,7 @@ Please report any bugs or direct any questions to dkluger@mit.edu.
 
 If you use PTDBoot in your work, please cite the following paper:
 
-> Dan M. Kluger, Kerri Lu, Tijana Zrnic, Sherrie Wang, Stephen Bates (2025). Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling.  
-> 2501.18577 [stat.ME]  
-> [https://arxiv.org/abs/2504.12345](https://arxiv.org/abs/2501.18577)](https://arxiv.org/abs/2501.18577)
+> Dan M. Kluger, Kerri Lu, Tijana Zrnic, Sherrie Wang, and Stephen Bates (2025). Prediction-Powered Inference with Imputed Covariates and Nonuniform Sampling. 2501.18577 [stat.ME]  
+ [https://arxiv.org/abs/2504.12345](https://arxiv.org/abs/2501.18577)](https://arxiv.org/abs/2501.18577)
 
 
