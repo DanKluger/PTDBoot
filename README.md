@@ -1,8 +1,7 @@
-# PTDBoot
 
 PTDBoot is an R package containing methods conducting leveraging large scale machine learning predictions in downstream statistical inference when a small number of labelled calibration samples are available. The package has functions that implement the Predict-Then-Debias bootstrap algorithms and its extensions from the paper referenced below. 
 
-# Installation and tutorial
+## Installation
 
 You can install the development version of PTDBoot directly from GitHub: 
 
@@ -10,10 +9,14 @@ You can install the development version of PTDBoot directly from GitHub:
 # install.packages("devtools") # if you don't have it already
 devtools::install_github("DanKluger/PTDBoot")
 ```
+## Tutorial
+A tutorial giving examples of how to use the functions in the package can be found [**here**](https://dankluger.github.io/PTDBootTutorial/Tutorial.html)
 
-👉 [**View the tutorial here**](https://dankluger.github.io/PTDBootTutorial/Tutorial.html)
+## Questions and Reporting Bugs
 
-# Citations
+Please report any bugs or direct any questions to dkluger@mit.edu.
+
+## Citations
 
 If you use PTDBoot in your work, please cite the following paper:
 
@@ -21,6 +24,4 @@ If you use PTDBoot in your work, please cite the following paper:
 > 2501.18577 [stat.ME]  
 > [https://arxiv.org/abs/2504.12345](https://arxiv.org/abs/2501.18577)](https://arxiv.org/abs/2501.18577)
 
-# Questions and Reporting Bugs
 
-Please report any bugs or direct any questions to dkluger@mit.edu.
