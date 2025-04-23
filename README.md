@@ -1,6 +1,6 @@
 # PTDBoot
 
-PTDBoot is an R package containing methods conducting leveraging large scale machine learning predictions in downstream statistical inference when a small number of labelled calibration samples is available. The has functions implementing the Predict-Then-Debias bootstrap algorithms and its extensions from the paper referenced below. 
+PTDBoot is an R package containing methods conducting leveraging large scale machine learning predictions in downstream statistical inference when a small number of labelled calibration samples are available. The package has functions that implement the Predict-Then-Debias bootstrap algorithms and its extensions from the paper referenced below. 
 
 # Installation and tutorial
 
