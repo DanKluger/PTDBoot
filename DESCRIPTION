@@ -11,3 +11,5 @@ RoxygenNote: 7.2.0
 Imports: 
     sandwich,
     stats
+URL: https://github.com/DanKluger/PTDBoot
+BugReports: https://github.com/DanKluger/PTDBoot/issues
