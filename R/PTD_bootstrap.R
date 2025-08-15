@@ -59,7 +59,7 @@ PTD_bootstrap <- function(EstAlgorithm, true_data_completeSamp, predicted_data_c
   for(b in 1:B){
     idx_resamp <- sample(x = 1:N,size = N,replace = T)
     idx_complete_b <- idx_resamp[idx_resamp <= n ]
-    idx_inc_b <- idx_resamp[idx_resamp > n ]-n
+    idx_inc_b <- idx_resamp[idx_resamp > n ]
 
     hatThetaComplete_Boot[b,] <-  EstAlgorithm(dfInp=true_data_completeSamp[idx_complete_b,], weightsInp=w_complete_samp[idx_complete_b])
     hatGammaComplete_Boot[b,] <-  EstAlgorithm(dfInp=predicted_data_completeSamp[idx_complete_b,], weightsInp=w_complete_samp[idx_complete_b])
