@@ -30,8 +30,6 @@
 #' @importFrom stats as.formula binomial cov gaussian glm poisson quantile rbinom rnorm var
 #' @importFrom sandwich sandwich
 #' @export
-
-
 PTD_bootstrap.glm <- function(true_data_completeSamp, predicted_data_completeSamp, predicted_data_incompleteSamp,
                               regFormula.glm,GLM_type,B=2000,alpha=0.05,TuningScheme="Diagonal",
                               clustered=FALSE,stratified=FALSE,speedup=FALSE,
